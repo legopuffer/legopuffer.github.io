@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <link href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/shift.css" rel="stylesheet">
+    
+    <link rel="stylesheet" href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/bootstrap.css">
+    <link rel="stylesheet" href="main.css">
+    
+  </head>
+
+  <body>
+    <div class="nav">
+      <div class="container">
+        <ul class ="pull-left">>
+          <li><a href="#">CAT</a></li>
+          <li><a href="#">FISH</a></li>
+        </ul>
+        <ul class ="pull-right">
+          <li><a href="#">Sign Up</a></li>
+          <li><a href="#">MYSTERY</a></li>
+          <li><a href="#">Help</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="jumbotron">
+      <div class="container">
+        <h1>Bitches ain't shit.</h1>
+        <p>But hoes & Tricks</p>
+        <a href="#">Noms</a>
+      </div>
+    </div> 
+    
+    <div class="neighborhood-guides">
+        <div class="container">
+            <h2>Turtling</h2>
+            <p>Not sure what to say?</p>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="thumbnail">
+                    <img src="http://www.mystic-magic.com/LadyStar/MWA/images/Directions/clans/turtle/Brown_Wood_Turtle-868126.jpeg">
+                    </div>
+                    <div class="thumbnail">
+                    <img src="http://www.backwaterreptiles.com/images/turtles/red-eared-slider-turtle-for-sale.jpg">
+                    </div>
+                  </div>
+                <div class="col-md-4">
+                    <div class="thumbnail">
+                        <img src="http://www.mystic-magic.com/LadyStar/MWA/images/Directions/clans/turtle/Eastern_Box_Turtle_Head.jpg">
+                    </div>
+                    <div class="thumbnail">
+                        <img src="https://assets.rbl.ms/1557379/980x.jpg">
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="thumbnail">
+                        <img src="http://cdni.wired.co.uk/1240x826/s_v/Turtle_02.jpg">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="learn-more">
+	  <div class="container">
+		<div class="row">
+	      
+	      <div class="col-md-4">>
+			<h3>Travel</h3>
+			<p>Turtles travel.</p>
+			<p><a href="#">See how to travel likea the turtles</a></p>
+	      </div>
+		  
+		  <div class= "col-md-4">
+			<h3>Hibernate</h3>
+			<p>Turtles hibernate.</p>
+			<p><a href="#">Learn more about burying yourself in the mud for the winter</a></p>
+		  </div>
+		  
+		  <div class= "col-md-4">
+			<h3>Trust and Safety</h3>
+			<p>Always get consent when working with turtles.</p>
+			<p><a href="#">Learn about communicating with your reptile friend</a></p>
+		  </div>
+		  
+	    </div>
+	  </div>
+	</div>
+  </body>
+</html>
